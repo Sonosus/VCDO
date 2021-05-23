@@ -2,6 +2,7 @@
 This was originally going to be a triple oscillator module, but there's too much functionality that would be left out by squeezing 3 of these into one 15cm panel.
 I will pair this with my Kosmic Superspreader module to add a 'Spread' control when using 3 of these modules.
 Work in progress, not verified, it might combust.
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
