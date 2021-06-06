@@ -2204,4 +2204,116 @@ F 3 "" H 4050 11100 50  0001 C CNN
 	1    4050 11100
 	0    -1   -1   0   
 $EndComp
+$Comp
+L Regulator_Linear:L7905 U?
+U 1 1 60C4C789
+P 6950 10550
+F 0 "U?" H 6950 10308 50  0000 C CNN
+F 1 "L7905" H 6950 10399 50  0000 C CNN
+F 2 "" H 6950 10350 50  0001 C CIN
+F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf" H 6950 10550 50  0001 C CNN
+	1    6950 10550
+	1    0    0    1   
+$EndComp
+$Comp
+L Regulator_Linear:L7805 U?
+U 1 1 60C4FB0A
+P 8700 10500
+F 0 "U?" H 8700 10742 50  0000 C CNN
+F 1 "L7805" H 8700 10651 50  0000 C CNN
+F 2 "" H 8725 10350 50  0001 L CIN
+F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" H 8700 10450 50  0001 C CNN
+	1    8700 10500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:-12V #PWR?
+U 1 1 60C5630C
+P 6600 10550
+F 0 "#PWR?" H 6600 10650 50  0001 C CNN
+F 1 "-12V" H 6615 10723 50  0000 C CNN
+F 2 "" H 6600 10550 50  0001 C CNN
+F 3 "" H 6600 10550 50  0001 C CNN
+	1    6600 10550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C56A22
+P 6950 10850
+F 0 "#PWR?" H 6950 10600 50  0001 C CNN
+F 1 "GND" H 6955 10677 50  0000 C CNN
+F 2 "" H 6950 10850 50  0001 C CNN
+F 3 "" H 6950 10850 50  0001 C CNN
+	1    6950 10850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+12V #PWR?
+U 1 1 60C56E9F
+P 8400 10500
+F 0 "#PWR?" H 8400 10350 50  0001 C CNN
+F 1 "+12V" H 8415 10673 50  0000 C CNN
+F 2 "" H 8400 10500 50  0001 C CNN
+F 3 "" H 8400 10500 50  0001 C CNN
+	1    8400 10500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60C57378
+P 8700 10800
+F 0 "#PWR?" H 8700 10550 50  0001 C CNN
+F 1 "GND" H 8705 10627 50  0000 C CNN
+F 2 "" H 8700 10800 50  0001 C CNN
+F 3 "" H 8700 10800 50  0001 C CNN
+	1    8700 10800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:-5V #PWR?
+U 1 1 60C5778D
+P 9300 10500
+F 0 "#PWR?" H 9300 10600 50  0001 C CNN
+F 1 "-5V" V 9315 10628 50  0000 L CNN
+F 2 "" H 9300 10500 50  0001 C CNN
+F 3 "" H 9300 10500 50  0001 C CNN
+	1    9300 10500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:CP_Small C?
+U 1 1 60C581D6
+P 8400 10600
+F 0 "C?" H 8488 10646 50  0000 L CNN
+F 1 "100uF" H 8488 10555 50  0000 L CNN
+F 2 "" H 8400 10600 50  0001 C CNN
+F 3 "~" H 8400 10600 50  0001 C CNN
+	1    8400 10600
+	1    0    0    -1  
+$EndComp
+Connection ~ 8400 10500
+Wire Wire Line
+	8400 10700 8400 10800
+Wire Wire Line
+	8400 10800 8700 10800
+Connection ~ 8700 10800
+$Comp
+L Device:CP_Small C?
+U 1 1 60C5EDE3
+P 9000 10600
+F 0 "C?" H 9088 10646 50  0000 L CNN
+F 1 "100uF" H 9088 10555 50  0000 L CNN
+F 2 "" H 9000 10600 50  0001 C CNN
+F 3 "~" H 9000 10600 50  0001 C CNN
+	1    9000 10600
+	1    0    0    -1  
+$EndComp
+Connection ~ 9000 10500
+Wire Wire Line
+	8700 10800 9000 10800
+Wire Wire Line
+	9000 10800 9000 10700
+Wire Wire Line
+	9300 10500 9000 10500
 $EndSCHEMATC
