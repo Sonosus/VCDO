@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="panel.svg">
+   sodipodi:docname="panel.svg"
+   inkscape:export-filename="Z:\Archie\KiCad\KiCad Files\VCDO\refholes.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384">
   <defs
      id="defs2">
     <rect
@@ -60,11 +63,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.86144641"
-     inkscape:cx="-124.5504"
-     inkscape:cy="228.49257"
+     inkscape:zoom="1.7228928"
+     inkscape:cx="80.446348"
+     inkscape:cy="357.33213"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -101,7 +104,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <circle
        style="fill:#ffff00;stroke-width:0.188461"
        id="path10"
@@ -125,8 +129,7 @@
        id="circle39"
        cx="80"
        cy="178"
-       r="7"
-       sodipodi:insensitive="true" />
+       r="7" />
     <circle
        style="fill:#ffff00;stroke-width:0.188461"
        id="path10-9"
@@ -154,13 +157,13 @@
     <circle
        style="fill:#ffff00;stroke-width:0.121154"
        id="circle868"
-       cx="25.031784"
+       cx="24.5"
        cy="129.5"
        r="4.5" />
     <circle
-       style="fill:#ffff00;stroke-width:0.121154;"
+       style="fill:#ffff00;stroke-width:0.121154"
        id="circle874"
-       cx="75.095352"
+       cx="74.5"
        cy="129.5"
        r="4.5" />
     <circle
@@ -184,7 +187,7 @@
     <circle
        style="fill:#ffff00;stroke-width:0.121154"
        id="circle880"
-       cx="50.063572"
+       cx="50"
        cy="104.5"
        r="4.5" />
     <path
@@ -198,9 +201,16 @@
     <circle
        style="fill:#ffff00;stroke-width:0.121154"
        id="circle511"
-       cx="50.063568"
+       cx="50"
        cy="129.93436"
        r="4.5" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect529"
+       width="1"
+       height="1"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
