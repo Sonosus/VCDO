@@ -1,21 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="100mm"
    height="200mm"
    viewBox="0 0 100 200"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="panel.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="panel.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="67.109756"
+       y="132.68382"
+       width="38.392309"
+       height="25.953201"
+       id="rect884" />
+    <rect
+       x="-76.881612"
+       y="26.713102"
+       width="29.319259"
+       height="16.722837"
+       id="rect37" />
+    <rect
+       x="67.109756"
+       y="132.68382"
+       width="38.392309"
+       height="25.953201"
+       id="rect894" />
+    <rect
+       x="67.109756"
+       y="132.68382"
+       width="38.392309"
+       height="25.953201"
+       id="rect902" />
+    <rect
+       x="67.109756"
+       y="132.68382"
+       width="38.392309"
+       height="25.953201"
+       id="rect920" />
+    <rect
+       x="67.109756"
+       y="132.68382"
+       width="38.392309"
+       height="25.953201"
+       id="rect373" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
@@ -23,17 +60,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3045673"
-     inkscape:cx="-241.32597"
-     inkscape:cy="627.11919"
+     inkscape:zoom="0.86144641"
+     inkscape:cx="-124.5504"
+     inkscape:cy="228.49257"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1298"
-     inkscape:window-height="745"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0" />
   <metadata
@@ -48,6 +85,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="square"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke-width:0.258712"
+       id="rect422"
+       width="38"
+       height="24"
+       x="51.132038"
+       y="169.33293" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -75,30 +125,287 @@
        id="circle39"
        cx="80"
        cy="178"
-       r="7" />
+       r="7"
+       sodipodi:insensitive="true" />
     <circle
        style="fill:#ffff00;stroke-width:0.188461"
        id="path10-9"
        cx="20"
-       cy="158"
+       cy="155"
        r="7" />
     <circle
        style="fill:#ffff00;stroke-width:0.188461"
        id="path10-9-3"
        cx="40"
-       cy="158"
+       cy="155"
        r="7" />
     <circle
        style="fill:#ffff00;stroke-width:0.188461"
        id="path10-9-3-2"
        cx="60"
-       cy="158"
+       cy="155"
        r="7" />
     <circle
        style="fill:#ffff00;stroke-width:0.121154"
        id="path10-9-3-2-4"
-       cx="46.582611"
-       cy="101.3119"
+       cx="50"
+       cy="54.5"
        r="4.5" />
+    <circle
+       style="fill:#ffff00;stroke-width:0.121154"
+       id="circle868"
+       cx="25.031784"
+       cy="129.5"
+       r="4.5" />
+    <circle
+       style="fill:#ffff00;stroke-width:0.121154;"
+       id="circle874"
+       cx="75.095352"
+       cy="129.5"
+       r="4.5" />
+    <circle
+       style="fill:#ffff00;stroke-width:0.121154"
+       id="circle872"
+       cx="24.5"
+       cy="84.5"
+       r="4.5" />
+    <circle
+       style="fill:#ffff00;stroke-width:0.121154"
+       id="circle876"
+       cx="74.5"
+       cy="84.5"
+       r="4.5" />
+    <circle
+       style="fill:#ffff00;stroke-width:0.121154"
+       id="circle878"
+       cx="50.063568"
+       cy="129.93436"
+       r="4.5" />
+    <circle
+       style="fill:#ffff00;stroke-width:0.121154"
+       id="circle880"
+       cx="50.063572"
+       cy="104.5"
+       r="4.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,0.30713846 V 199.94714"
+       id="path415" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100.12714,0.61427693 V 200.25428"
+       id="path417" />
+    <circle
+       style="fill:#ffff00;stroke-width:0.121154"
+       id="circle511"
+       cx="50.063568"
+       cy="129.93436"
+       r="4.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Silkscreen"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3114px;line-height:1;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.332783"
+       x="44.297684"
+       y="11.449591"
+       id="text26"
+       transform="scale(1.1372705,0.87929828)"><tspan
+         sodipodi:role="line"
+         id="tspan59"
+         x="44.297684"
+         y="11.449591">Kosmic</tspan><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         x="44.297688"
+         y="24.76099">Mu<tspan
+   style="letter-spacing:-2.11667px"
+   id="tspan365">t</tspan><tspan
+   style="letter-spacing:0px"
+   id="tspan63">a</tspan>tor</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text35"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect37);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text882"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect884);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.58146763,0,0,0.58146763,33.462369,108.74622)"><tspan
+         x="67.109375"
+         y="143.1787"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000">MAIN</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text892"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect894);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.58057444,0,0,0.58057444,14.128654,108.86796)"><tspan
+         x="67.109375"
+         y="143.1787"><tspan
+           style="fill:#000000">SUB</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text900"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect902);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(0.50618882,0,0,0.56693094,-1.4700153,110.72757)"><tspan
+         x="67.109375"
+         y="143.1787"><tspan>FREQ</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text918"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect920);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(0.47244281,0,0,0.58146763,-19.205342,108.74622)"><tspan
+         x="67.109375"
+         y="143.1787"><tspan>WAVE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.39879px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.159971"
+       x="12.005439"
+       y="173.90782"
+       id="text395"
+       transform="scale(1.0414026,0.96024343)"><tspan
+         sodipodi:role="line"
+         id="tspan419"
+         x="12.005439"
+         y="173.90782"
+         style="stroke-width:0.159971">SUB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47603px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.161901"
+       x="30.883101"
+       y="175.74661"
+       id="text399"
+       transform="scale(1.0523556,0.95024913)"><tspan
+         sodipodi:role="line"
+         id="tspan401"
+         x="30.883101"
+         y="175.74661"
+         style="stroke-width:0.161901">FINE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.547px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.138675"
+       x="58.243465"
+       y="150.5347"
+       id="text405"
+       transform="scale(0.90138878,1.1093992)"><tspan
+         sodipodi:role="line"
+         id="tspan407"
+         x="58.243465"
+         y="150.5347"
+         style="stroke-width:0.138675">GLIDE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.39879px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.159971"
+       x="37.865063"
+       y="75.975555"
+       id="text449"
+       transform="scale(1.0414026,0.96024343)"><tspan
+         sodipodi:role="line"
+         id="tspan451"
+         x="37.865063"
+         y="75.975555">WAVE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.39879px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.159971"
+       x="16.176344"
+       y="102.21145"
+       id="text455"
+       transform="scale(1.0414026,0.96024343)"><tspan
+         sodipodi:role="line"
+         id="tspan457"
+         x="16.176344"
+         y="102.21145">SUB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.84257px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.146065"
+       x="67.832092"
+       y="93.326584"
+       id="text461"
+       transform="scale(0.95087728,1.0516604)"><tspan
+         sodipodi:role="line"
+         id="tspan463"
+         x="67.832092"
+         y="93.326584"
+         style="stroke-width:0.146065">CRUSH</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 14.205154,173.95555 4.7606463,165.24049 V 145.58363"
+       id="path465" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.39879px;line-height:1.25;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.159971"
+       x="39.114918"
+       y="121.77656"
+       id="text469"
+       transform="scale(1.0414026,0.96024343)"><tspan
+         sodipodi:role="line"
+         id="tspan471"
+         x="39.114918"
+         y="121.77656">FREQ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.56935px;line-height:0.95;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.267701"
+       x="23.511522"
+       y="149.83603"
+       id="text481"
+       transform="scale(1.0687164,0.93570193)"><tspan
+         sodipodi:role="line"
+         id="tspan493"
+         x="23.511522"
+         y="149.83603"
+         style="stroke-width:0.267701">WAVE</tspan><tspan
+         sodipodi:role="line"
+         id="tspan495"
+         x="23.511522"
+         y="153.22691"
+         style="stroke-width:0.267701">ATT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.56935px;line-height:0.95;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.267701"
+       x="46.935593"
+       y="149.83603"
+       id="text501"
+       transform="scale(1.0687164,0.93570193)"><tspan
+         sodipodi:role="line"
+         id="tspan507"
+         x="46.935593"
+         y="149.83603">SUB</tspan><tspan
+         sodipodi:role="line"
+         id="tspan509"
+         x="46.935593"
+         y="153.22691">ATT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.56935px;line-height:0.95;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.267701"
+       x="46.935593"
+       y="149.83603"
+       id="text517"
+       transform="scale(1.0687164,0.93570193)"><tspan
+         sodipodi:role="line"
+         id="tspan513"
+         x="46.935593"
+         y="149.83603">SUB</tspan><tspan
+         sodipodi:role="line"
+         id="tspan515"
+         x="46.935593"
+         y="153.22691">ATT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.56935px;line-height:0.95;font-family:'Terminator Two';-inkscape-font-specification:'Terminator Two, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.267701"
+       x="70.35788"
+       y="149.83603"
+       id="text523"
+       transform="scale(1.0687164,0.93570193)"><tspan
+         sodipodi:role="line"
+         id="tspan525"
+         x="70.35788"
+         y="149.83603">FINE</tspan><tspan
+         sodipodi:role="line"
+         id="tspan527"
+         x="70.35788"
+         y="153.22691">ATT</tspan></text>
   </g>
 </svg>
