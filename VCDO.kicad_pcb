@@ -60,7 +60,7 @@
     (pad_drill 6)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFFFFF)
+    (visible_elements 7FFFF7FF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -2037,7 +2037,7 @@
   )
 
   (module Sonosus:Potentiometer_Alpha_RD901F-40-00D_centred (layer F.Cu) (tedit 60C0F7E1) (tstamp 60C13F5B)
-    (at 495 10)
+    (at 74.5 84.5)
     (descr "Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113")
     (tags "potentiometer vertical 9mm single")
     (path /60CB3250)
@@ -2131,7 +2131,7 @@
   )
 
   (module Sonosus:Potentiometer_Alpha_RD901F-40-00D_centred (layer F.Cu) (tedit 60C0F7E1) (tstamp 60C579BF)
-    (at 49.993 130.04)
+    (at 74.5 129.5)
     (descr "Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113")
     (tags "potentiometer vertical 9mm single")
     (path /60CA2930)
@@ -2178,7 +2178,7 @@
   )
 
   (module Sonosus:Potentiometer_Alpha_RD901F-40-00D_centred (layer F.Cu) (tedit 60C0F7E1) (tstamp 60C13EEB)
-    (at 462 10)
+    (at 24.5 84.5)
     (descr "Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113")
     (tags "potentiometer vertical 9mm single")
     (path /60CB204C)
@@ -6530,10 +6530,10 @@
     )
   )
 
-  (gr_line (start 90 20) (end 90 140) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 0 20) (end 90 20) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 0 140) (end 0 20) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 90 140) (end 0 140) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 90 35) (end 90 140) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 5 35) (end 90 35) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 5 140) (end 5 35) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 90 140) (end 5 140) (layer Edge.Cuts) (width 0.1))
   (gr_line (start -108 200) (end -108 0) (layer Edge.Cuts) (width 0.05) (tstamp 60C56208))
   (gr_line (start -8 200) (end -108 200) (layer Edge.Cuts) (width 0.05))
   (gr_line (start -8 0) (end -8 200) (layer Edge.Cuts) (width 0.05))
