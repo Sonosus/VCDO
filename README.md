@@ -3,6 +3,8 @@ This was originally going to be a triple oscillator module, but there's too much
 I will pair this with my Kosmic Superspreader module to add a 'Spread' control when using 3 of these modules.
 Work in progress, not verified, it might combust.
 
+Estimated completion - mid-late August 2021. GitKraken Timeline [here](https://timelines.gitkraken.com/timeline/6cf3b86d63e74a639193ae12d72524d1)
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
