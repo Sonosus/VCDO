@@ -1,10 +1,11 @@
 # VCDO
 This was originally going to be a triple oscillator module, but there's too much functionality that would be left out by squeezing 3 of these into one 15cm panel.
 I will pair this with my Kosmic Superspreader module to add a 'Spread' control when using 3 of these modules.
-Work in progress, not verified, it might combust.
+Work in progress, not verified!
 
 
 Onshape panel holes document [here](https://cad.onshape.com/documents/52a83a1c6ad04fa76b419860/w/bd43a6a259a6ae0e1c3272fb/e/dd1c064c845cda1f91862f36)
+
 Estimated completion - mid-late August 2021. GitKraken Timeline [here](https://timelines.gitkraken.com/timeline/6cf3b86d63e74a639193ae12d72524d1)
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
