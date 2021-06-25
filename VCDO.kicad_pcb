@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 23)
+    (drawings 27)
     (tracks 0)
     (zones 0)
     (modules 93)
@@ -21,7 +21,7 @@
     (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
-    (40 Dwgs.User user)
+    (40 Dwgs.User user hide)
     (41 Cmts.User user)
     (42 Eco1.User user)
     (43 Eco2.User user)
@@ -4769,6 +4769,10 @@
     )
   )
 
+  (gr_line (start 106 33) (end 106 122) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 14 33) (end 106 33) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 14 122) (end 14 33) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 106 122) (end 14 122) (layer Edge.Cuts) (width 0.1))
   (gr_circle (center 50 180) (end 57 180) (layer Dwgs.User) (width 0.2) (tstamp 60D25339))
   (gr_circle (center 75 180) (end 82 180) (layer Dwgs.User) (width 0.2) (tstamp 60D25338))
   (gr_circle (center 100 180) (end 107 180) (layer Dwgs.User) (width 0.2) (tstamp 60D25337))
