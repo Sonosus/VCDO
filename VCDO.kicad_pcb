@@ -908,7 +908,7 @@
   )
 
   (module Sonosus:Capacitor_NonPolarized (layer B.Cu) (tedit 60D75F4C) (tstamp 60C1384D)
-    (at 319.75 173.25)
+    (at 314.5 175)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*4.4mm^2, Capacitor")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 4.4mm Capacitor")
     (path /60632B1B)
